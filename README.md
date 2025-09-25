@@ -162,3 +162,4 @@ Este portafolio fue desarrollado siguiendo las mejores prácticas de desarrollo 
 **© 2025 Omar Cárdenas – Todos los derechos reservados**
 
 *Desarrollado con ❤️ para mostrar el talento arquitectónico de Omar Alfredo Cárdenas Omaña*
+

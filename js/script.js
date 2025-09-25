@@ -635,3 +635,4 @@ window.PortfolioOmar = {
 };
 
 console.log('Funciones disponibles en window.PortfolioOmar:', Object.keys(window.PortfolioOmar));
+
